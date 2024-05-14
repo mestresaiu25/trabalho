@@ -1,0 +1,132 @@
+{
+    "classes": [
+      {
+        "id": 1,
+        "Nome": "Scout",
+        "NomeReal": "Jeremy",
+        "Origem": "USA",
+        "Velocidade": "133%",
+        "Vida": "125"
+      },
+      {
+        "id": 2,
+        "Nome": "Soldier",
+        "NomeReal": "Jane Doe",
+        "Origem": "USA",
+        "Velocidade": "80%",
+        "Vida": "200"
+      },
+      {
+        "id": 3,
+        "Nome": "Pyro",
+        "NomeReal": "[Redigido]",
+        "Origem": "[Desconhecido]",
+        "Velocidade": "100%",
+        "Vida": "175"
+      },
+      {
+        "id": 4,
+        "Nome": "Demoman",
+        "NomeReal": "Tavish",
+        "Origem": "Escócia",
+        "Velocidade": "93%",
+        "Vida": "175"
+      },
+      {
+        "id": 5,
+        "Nome": "Heavy",
+        "NomeReal": "Mikhail",
+        "Origem": "USSR",
+        "Velocidade": "77%",
+        "Vida": "300"
+      },
+      {
+        "id": 6,
+        "Nome": "Engineer",
+        "NomeReal": "Dell",
+        "Origem": "USA",
+        "Velocidade": "100%",
+        "Vida": "125"
+      },
+      {
+        "id": 7,
+        "Nome": "Medic",
+        "NomeReal": "Ludwig",
+        "Origem": "Alemanha",
+        "Velocidade": "107%",
+        "Vida": "150"
+      },
+      {
+        "id": 8,
+        "Nome": "Sniper",
+        "NomeReal": "Mundy",
+        "Origem": "Nova Zelândia",
+        "Velocidade": "100%",
+        "Vida": "125"
+      },
+      {
+        "id": 9,
+        "Nome": "Spy",
+        "NomeReal": "[Redigido]",
+        "Origem": "França",
+        "Velocidade": "107%",
+        "Vida": "125"
+      }
+    ],
+    "arsenal": [
+      {
+        "id": 1,
+        "Primaria": "Scattergun",
+        "Secundaria": "Pistola",
+        "Corpo": "Bastão"
+      },
+      {
+        "id": 2,
+        "Primaria": "Lança-foguetes",
+        "Secundaria": "Escopeta",
+        "Corpo": "Pá"
+      },
+      {
+        "id": 3,
+        "Primaria": "Lança-chamas",
+        "Secundaria": "Escopeta",
+        "Corpo": "Machado Arrombador"
+      },
+      {
+        "id": 4,
+        "Primaria": "Lança-granadas",
+        "Secundaria": "Lança-sticky bombs",
+        "Corpo": "Garrafa"
+      },
+      {
+        "id": 5,
+        "Primaria": "Minigun",
+        "Secundaria": "Escopeta",
+        "Corpo": "Braços"
+      },
+      {
+        "id": 6,
+        "Primaria": "Escopeta",
+        "Secundaria": "Kit de construção",
+        "Corpo": "Chave inglesa"
+      },
+      {
+        "id": 7,
+        "Primaria": "Arma de seringas",
+        "Secundaria": "Medigun",
+        "Corpo": "Corta-ossos"
+      },
+      {
+        "id": 8,
+        "Primaria": "Rifle de sniper",
+        "Secundaria": "SMG",
+        "Corpo": "Kukri"
+      },
+      {
+        "id": 9,
+        "Primaria": "Revólver",
+        "Secundaria": "Kit de disfarce",
+        "Corpo": "Balisong"
+      }
+    ]
+  }
